@@ -18,4 +18,3 @@ ml Click Here http://example.com
 ml Click Here To Get Scammed example.com
 ml Click Here example.com
 ]
-d
