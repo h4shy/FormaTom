@@ -13,7 +13,7 @@ ts 5 mo later
 
 ### Maskedlinks: ml
 examples = [
-ml Click example.com
+ml Click example.com \n
 ml Click Here http://example.com
 ml Click Here To Get Scammed example.com
 ml Click Here example.com
